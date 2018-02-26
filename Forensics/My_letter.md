@@ -9,7 +9,7 @@ Hint: The flag is not a rickroll
 
 This one took me some time to actually figure out the flag. Inside the word document, we can see bold and italicised characters.
 
-<p align="center"><img src="../screenshots/my_letter.png"></p>
+<p align="center"><img src="../screenshots/My_letter.png"></p>
 
 Assembling these characters gave me "nevergonnagiveyouup". I doubted that it's the flag, since the hint says that the flag is not a rickroll. I was right, it was the wrong flag.
 
